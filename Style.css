@@ -1,0 +1,39 @@
+p {
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    line-height: 2;
+}
+
+li {
+    color :darkblue;
+    font-size: 20px;
+}
+
+h2 {
+    text-decoration: underline;
+    letter-spacing: 4;
+}
+
+h1 {
+    text-align: center;
+}
+
+.Rojo {
+    color: tomato;
+    font-weight: bold;
+}
+
+.Verde {
+    color: chartreuse;
+    font-weight: bolder;
+}
+
+#hola1 {
+    color: black;
+}
+
+#hola2{
+    color: darkslategray;
+    font-style: oblique;
+}
